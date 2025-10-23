@@ -1,0 +1,16 @@
+{
+  "name": "midterm-factorial-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Midterm Exam Project: Online Factorial Calculator (HTML5, CSS, SCSS, Bootstrap, JavaScript)",
+  "scripts": {
+    "build": "sass scss:css --no-source-map",
+    "dev": "sass --watch scss:css --no-source-map"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass": "^1.80.0"
+  }
+}
